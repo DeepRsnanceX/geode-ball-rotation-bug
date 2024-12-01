@@ -1,12 +1,12 @@
 {
   "geode": "4.0.1",
   "gd": {"android": "2.2074", "win": "2.2074"},
-  "version": "v1.4.2",
+  "version": "v1.0.0",
   "id": "saritahhh.ball_bug",
-  "name": "Ball Rotation Bug Return",
+  "name": "Standalone Ball Rotation Bug",
   "developer": "Saritahhh",
   "description": "Standalone QOLMod Ball rotation bug for personal uses !!",
-  "repository": "https://github.com/nytelytee/geode-wave-trail-drag-fix",
-  "resources": {"files": ["resources/examples/with.png", "resources/examples/without.png"]},
-  "tags": ["offline", "bugfix", "enhancement"]
+  "repository": "https://github.com/fibberclip/geode-ball-rotation-bug",
+  "resources": {"files": ["resources/examples/epicexample.png"]},
+  "tags": ["offline", "gameplay", "customization"]
 }
