@@ -8,3 +8,6 @@
 
 # What it does
 ![epicexample](saritahhh.ball_bug/epicexample.png)
+
+# Disclaimer
+This thing is for **PERSONAL USE ONLY** as pretty much nothing in this was made by me. I decided to make this so i could have the Ball Rotation Bug feature from QOLMod in a standalone mod so i don't have to keep yet ANOTHER full mod menu installed for a single feature. I take absolutely no credit for anything this mod does. Needless to say this mod is not getting published **ANYWHERE** so in case you're dumb enough to ask me to upload this to the index or something like that, know in advance i ***OBVIOUSLY WON'T.***
